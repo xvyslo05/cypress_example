@@ -1,5 +1,6 @@
 # cypress_example
 
+install with:
 `npm install cypress`
 
 first run with:
