@@ -11,6 +11,7 @@ first run with:
 this will create folders tree with default settings  
 
 run with:
+
 `npx cypress open` or browser tests\
 or\
 `npx cypress run` for headless testing
