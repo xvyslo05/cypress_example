@@ -2,6 +2,7 @@
 
 install with:
 `npm install cypress`
+repo is now in the state after install
 
 first run with:
 `npx cypress open` 
