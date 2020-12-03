@@ -14,6 +14,4 @@ describe('First Magexo Cypress test ever', () => {
 
     cy.get('customers-slider-slide-btn').should('be.visible')
   })
-
-
 })
